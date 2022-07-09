@@ -1,2 +1,3 @@
 import /组件库/button.txt
 import /组件库/swipper.txt
+import /组件库/label.txt
